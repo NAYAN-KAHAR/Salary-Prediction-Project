@@ -168,3 +168,7 @@ wsproto==1.0.0
 xdg==5
 xkit==0.0.0
 zipp==1.0.0
+streamlit
+pandas
+numpy
+scikit-learn
