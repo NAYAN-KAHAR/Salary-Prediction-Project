@@ -6,14 +6,15 @@
    cd your-repo-name
 
 ## Create Virtual Environment
-  python3 -m venv venv
-  source venv/bin/activate   # On Windows: venv\Scripts\activate
+   python3 -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 ## Install Requirements
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Run the App Locally
-  streamlit run app.py
+   streamlit run app.py
 
 ## Live Url :
+   https://salary-prediction-project-swiq.onrender.com/
   
